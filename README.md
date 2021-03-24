@@ -8,7 +8,6 @@ This is the official Pytorch implementation of the paper [Improving Text-to-Imag
 
 * PyTorch ≥ 1.4.0
 
-* Other requirements:
 
 ## Prepare Data
 
@@ -19,8 +18,7 @@ Download the preprocessed datasets from [AttnGAN](https://github.com/taoxugit/At
 Alternatively, another site is from [DM-GAN](https://github.com/MinfengZhu/DM-GAN)
 
 
-## Run the source code
-### Training
+## Training
 - Pre-train DAMSM models:
   - For bird dataset: `python pretrain_DAMSM.py --cfg cfg/DAMSM/bird.yml --gpu 0`
   - For coco dataset: `python pretrain_DAMSM.py --cfg cfg/DAMSM/coco.yml --gpu 0`
@@ -33,7 +31,7 @@ Alternatively, another site is from [DM-GAN](https://github.com/MinfengZhu/DM-GA
   - For bird dataset: `python main.py --cfg cfg/bird_DMGAN.yml --gpu 0`
   - For coco dataset: `python main.py --cfg cfg/coco_DMGAN.yml --gpu 0`
 
-### Evaluation
+## Evaluation
 - Sampling and get the R-precision:
   - `python main.py --cfg cfg/eval_bird.yml --gpu 0`
   - `python main.py --cfg cfg/eval_coco.yml --gpu 0`
