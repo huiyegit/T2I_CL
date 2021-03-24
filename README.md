@@ -16,7 +16,7 @@ This is the official Pytorch implementation of the paper [Improving Text-to-Imag
 
 Download the preprocessed datasets from [AttnGAN](https://github.com/taoxugit/AttnGAN)
 
-Alternatively, download the preprocessed datasets from [DM-GAN](https://github.com/MinfengZhu/DM-GAN)
+Alternatively, another site is from [DM-GAN](https://github.com/MinfengZhu/DM-GAN)
 
 
 ## Run the source code
