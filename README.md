@@ -56,12 +56,10 @@ Alternatively, another site is from [DM-GAN](https://github.com/MinfengZhu/DM-GA
 If you find this work useful in your research, please consider citing:
 
 ```
-@misc{ye2021improving,
-      title={Improving Text-to-Image Synthesis Using Contrastive Learning}, 
-      author={Hui Ye and Xiulong Yang and Martin Takac and Rajshekhar Sunderraman and Shihao Ji},
-      year={2021},
-      eprint={2107.02423},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
+@article{ye2021improving,
+  title={Improving Text-to-Image Synthesis Using Contrastive Learning},
+  author={Ye, Hui and Yang, Xiulong and Takac, Martin and Sunderraman, Rajshekhar and Ji, Shihao},
+  journal={arXiv preprint arXiv:2107.02423},
+  year={2021}
 }
 ```
