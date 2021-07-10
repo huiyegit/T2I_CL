@@ -34,6 +34,10 @@ Alternatively, another site is from [DM-GAN](https://github.com/MinfengZhu/DM-GA
 ## Pretrained Models
 - [DAMSM for Bird](https://drive.google.com/). Download and save it to `DAMSMencoders/`
 - [DAMSM for COCO](https://drive.google.com/). Download and save it to `DAMSMencoders/`
+- [AttnGAN for Bird](https://drive.google.com/). Download and save it to `models/`
+- [AttnGAN for COCO](https://drive.google.com/). Download and save it to `models/`
+- [DM-GAN for Bird](https://drive.google.com/). Download and save it to `models/`
+- [DM-GAN for COCO](https://drive.google.com/). Download and save it to `models/`
 
 ## Evaluation
 - Sampling and get the R-precision:
