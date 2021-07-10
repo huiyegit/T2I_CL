@@ -31,6 +31,9 @@ Alternatively, another site is from [DM-GAN](https://github.com/MinfengZhu/DM-GA
   - For bird dataset: `python main.py --cfg cfg/bird_DMGAN.yml --gpu 0`
   - For coco dataset: `python main.py --cfg cfg/coco_DMGAN.yml --gpu 0`
 
+## Pretrained Models
+- [DAMSM for bird](https://drive.google.com/).
+
 ## Evaluation
 - Sampling and get the R-precision:
   - `python main.py --cfg cfg/eval_bird.yml --gpu 0`
