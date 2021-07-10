@@ -56,10 +56,12 @@ Alternatively, another site is from [DM-GAN](https://github.com/MinfengZhu/DM-GA
 If you find this work useful in your research, please consider citing:
 
 ```
-@article{Tao18attngan,
-  author    = {Tao Xu, Pengchuan Zhang, Qiuyuan Huang, Han Zhang, Zhe Gan, Xiaolei Huang, Xiaodong He},
-  title     = {AttnGAN: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks},
-  Year = {2018},
-  booktitle = {{CVPR}}
+@misc{ye2021improving,
+      title={Improving Text-to-Image Synthesis Using Contrastive Learning}, 
+      author={Hui Ye and Xiulong Yang and Martin Takac and Rajshekhar Sunderraman and Shihao Ji},
+      year={2021},
+      eprint={2107.02423},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
 }
 ```
