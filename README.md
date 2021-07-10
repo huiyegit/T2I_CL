@@ -1,5 +1,5 @@
 # T2I_CL
-This is the official Pytorch implementation of the paper [Improving Text-to-Image Synthesis Using Contrastive Learning]
+This is the official Pytorch implementation of the paper [Improving Text-to-Image Synthesis Using Contrastive Learning](https://arxiv.org/abs/2107.02423?context=cs)
 
 
 ## Requirements
