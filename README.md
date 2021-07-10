@@ -51,3 +51,15 @@ Alternatively, another site is from [DM-GAN](https://github.com/MinfengZhu/DM-GA
 - FID: 
   - ` python fid_score.py --gpu 0 --batch-size 50 --path1 real_images_bird --path2 fake_images_bird`
   - ` python fid_score.py --gpu 0 --batch-size 50 --path1 real_images_coco --path2 fake_images_coco`
+  - 
+### Citation
+If you find this work useful in your research, please consider citing:
+
+```
+@article{Tao18attngan,
+  author    = {Tao Xu, Pengchuan Zhang, Qiuyuan Huang, Han Zhang, Zhe Gan, Xiaolei Huang, Xiaodong He},
+  title     = {AttnGAN: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks},
+  Year = {2018},
+  booktitle = {{CVPR}}
+}
+```
