@@ -32,12 +32,12 @@ Alternatively, another site is from [DM-GAN](https://github.com/MinfengZhu/DM-GA
   - For coco dataset: `python main.py --cfg cfg/coco_DMGAN.yml --gpu 0`
 
 ## Pretrained Models
-- [DAMSM for Bird](https://drive.google.com/). Download and save it to `DAMSMencoders/`
-- [DAMSM for COCO](https://drive.google.com/). Download and save it to `DAMSMencoders/`
-- [AttnGAN for Bird](https://drive.google.com/). Download and save it to `models/`
-- [AttnGAN for COCO](https://drive.google.com/). Download and save it to `models/`
-- [DM-GAN for Bird](https://drive.google.com/). Download and save it to `models/`
-- [DM-GAN for COCO](https://drive.google.com/). Download and save it to `models/`
+- [DAMSM for bird](https://drive.google.com/file/d/15w_mKV7UzmC3jMqplKyMawUEEJaJozTZ/view?usp=sharing). Download and save it to `DAMSMencoders/`
+- [DAMSM for coco](https://drive.google.com/file/d/1zktujHYRR4Bix7GwG9MXLtwHHv4Dayhu/view?usp=sharing). Download and save it to `DAMSMencoders/`
+- [AttnGAN for bird](https://drive.google.com/file/d/138g15XlWXBM_Wx-owMLkJ7dGImWJtra1/view?usp=sharing). Download and save it to `models/`
+- [AttnGAN for coco](https://drive.google.com/file/d/1ZnwXqe3nT0v1E-POtIKLvrPuoYLYXOkP/view?usp=sharing). Download and save it to `models/`
+- [DM-GAN for bird](https://drive.google.com/file/d/1QIBMz3OSPGKe5W8_dlNTcaETivVPlUtf/view?usp=sharing). Download and save it to `models/`
+- [DM-GAN for coco](https://drive.google.com/file/d/1nNB-MHGkVLWj1zlOcsDVGzyhkrsvw7UY/view?usp=sharing). Download and save it to `models/`
 
 ## Evaluation
 - Sampling and get the R-precision:
