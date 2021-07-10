@@ -32,7 +32,8 @@ Alternatively, another site is from [DM-GAN](https://github.com/MinfengZhu/DM-GA
   - For coco dataset: `python main.py --cfg cfg/coco_DMGAN.yml --gpu 0`
 
 ## Pretrained Models
-- [DAMSM for bird](https://drive.google.com/).
+- [DAMSM for Bird](https://drive.google.com/).
+- [DAMSM for COCO](https://drive.google.com/).
 
 ## Evaluation
 - Sampling and get the R-precision:
