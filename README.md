@@ -19,15 +19,15 @@ Alternatively, another site is from [DM-GAN](https://github.com/MinfengZhu/DM-GA
 
 
 ## Training
-- Pre-train DAMSM models:
+- Pretrain DAMSM+CL:
   - For bird dataset: `python pretrain_DAMSM.py --cfg cfg/DAMSM/bird.yml --gpu 0`
   - For coco dataset: `python pretrain_DAMSM.py --cfg cfg/DAMSM/coco.yml --gpu 0`
 
-- Train AttnGAN:
+- Train AttnGAN+CL:
   - For bird dataset: `python main.py --cfg cfg/bird_attn2.yml --gpu 0`
   - For coco dataset: `python main.py --cfg cfg/coco_attn2.yml --gpu 0`
 
-- Train DM-GAN:
+- Train DM-GAN+CL:
   - For bird dataset: `python main.py --cfg cfg/bird_DMGAN.yml --gpu 0`
   - For coco dataset: `python main.py --cfg cfg/coco_DMGAN.yml --gpu 0`
 
