@@ -136,7 +136,7 @@ def train(dataloader, cnn_model, rnn_model, batch_size,
         # sent_emb = l2norm(sent_emb, dim=1)
 
         sent_emb = l2norm(sent_emb, dim=1)
-        sent_emb_2 = l2norm(sent_emb, dim=1)
+        sent_emb_2 = l2norm(sent_emb_2, dim=1)
 
         contrative_loss = criterion(sent_emb, sent_emb_2)
         loss += contrative_loss
