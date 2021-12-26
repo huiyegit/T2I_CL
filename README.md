@@ -59,7 +59,7 @@ If you find this work useful in your research, please consider citing:
 @article{ye2021improving,
   title={Improving Text-to-Image Synthesis Using Contrastive Learning},
   author={Ye, Hui and Yang, Xiulong and Takac, Martin and Sunderraman, Rajshekhar and Ji, Shihao},
-  journal={arXiv preprint arXiv:2107.02423},
+  journal={The 32nd British Machine Vision Conference (BMVC)},
   year={2021}
 }
 ```
